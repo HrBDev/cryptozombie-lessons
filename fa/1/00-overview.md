@@ -1,5 +1,5 @@
 ---
-title: Making the Zombie Factory
+title: ساختن کارخانه زامبی
 header: Welcome, human!
 roadmap: roadmap.jpg
 path: solidity
